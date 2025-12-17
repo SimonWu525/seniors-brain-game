@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seniors-brain-game/static/css/main.b3f3c8d6.css",
+    "main.js": "/seniors-brain-game/static/js/main.ac5a3ff0.js",
+    "index.html": "/seniors-brain-game/index.html",
+    "main.b3f3c8d6.css.map": "/seniors-brain-game/static/css/main.b3f3c8d6.css.map",
+    "main.ac5a3ff0.js.map": "/seniors-brain-game/static/js/main.ac5a3ff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f3c8d6.css",
+    "static/js/main.ac5a3ff0.js"
+  ]
+}
