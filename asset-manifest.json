@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/seniors-brain-game/static/css/main.28cb4c1c.css",
-    "main.js": "/seniors-brain-game/static/js/main.94e098e5.js",
+    "main.css": "/seniors-brain-game/static/css/main.151044ef.css",
+    "main.js": "/seniors-brain-game/static/js/main.5c717dab.js",
     "index.html": "/seniors-brain-game/index.html",
-    "main.28cb4c1c.css.map": "/seniors-brain-game/static/css/main.28cb4c1c.css.map",
-    "main.94e098e5.js.map": "/seniors-brain-game/static/js/main.94e098e5.js.map"
+    "main.151044ef.css.map": "/seniors-brain-game/static/css/main.151044ef.css.map",
+    "main.5c717dab.js.map": "/seniors-brain-game/static/js/main.5c717dab.js.map"
   },
   "entrypoints": [
-    "static/css/main.28cb4c1c.css",
-    "static/js/main.94e098e5.js"
+    "static/css/main.151044ef.css",
+    "static/js/main.5c717dab.js"
   ]
 }
